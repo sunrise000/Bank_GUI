@@ -5,7 +5,7 @@ from tkinter import messagebox
 class BankApp:
     def __init__(self, root):
         self.window = window
-        self.window.title("Cool Cash")
+        self.window.title("Bank app ")
         self.window.geometry("300x266")
         self.window.config(background= "#1AA7EC")
 
